@@ -1,4 +1,4 @@
-## Selected projects in Data Science, Machine Learning, Computer Vision and NLP
+## Curated Portfolio: Data Science, Machine Learning, Computer Vision, and NLP Projects
 
 ---
 
