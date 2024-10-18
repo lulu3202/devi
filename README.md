@@ -1,14 +1,18 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in data science, machine learning, Computer Vision and NLP
 
 ---
 
-### Deep NLP for hate speech detection
+### Face Mask Detection Using Computer Vision and Keras 
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+This project builds a model to detect whether individuals are wearing masks using Keras and computer vision techniques. A folder-based dataset with masked and unmasked faces is processed by leveraging transfer learning from MobileNetV2 model (a popular CNN used for vision tasks). The model is trained by cropping faces, converting them into numerical formats, and making predictions. The best-performing model is saved as an .h5 file for deployment. 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+<img src="images/with_facemask.png?raw=true" /> <img src="images/without_facemask.png?raw=true" />
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy)![image](https://github.com/user-attachments/assets/cd26e015-4ce4-4235-8344-8bda7029cf2b)
+
+[View code on Github](https://github.com/lulu3202/Deep_Learning![image](https://github.com/user-attachments/assets/3759d35b-eaf4-40da-8624-367e7a01e8b9)
+)
 
 ---
 
