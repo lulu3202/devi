@@ -34,7 +34,8 @@ This application provides an interactive Q&A platform for users to ask questions
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-00B4D8?logo=gradio&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-00A3E0?logo=python&logoColor=white) ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-40A9E0?logo=anaconda&logoColor=white)
 
-[View code on GitHub](https://github.com/lulu3202/PDF_RAG_Reader) [View Blog on Medium](https://medium.com/@devipriyakaruppiah/building-a-fuji-x-s20-camera-q-a-app-with-gemini-langchain-and-gradio-befc8d620721)
+[View code on GitHub](https://github.com/lulu3202/PDF_RAG_Reader)  [View Blog on Medium](https://medium.com/@devipriyakaruppiah/building-a-fuji-x-s20-camera-q-a-app-with-gemini-langchain-and-gradio-befc8d620721)
+
 ---
 
 ### Photo critique app
