@@ -10,7 +10,7 @@ This project builds a model to detect whether individuals are wearing masks usin
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 
-[View code on Github](https://github.com/lulu3202/Deep_Learning![image](https://github.com/user-attachments/assets/3759d35b-eaf4-40da-8624-367e7a01e8b9)
+[View code on Github](https://github.com/lulu3202/Deep_Learning)
 
 ---
 
@@ -23,7 +23,7 @@ This  project utilizes the NASA NEO dataset to predict whether near-Earth object
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 
 
-[View code on Github](https://github.com/lulu3202/ML-DS-Capstone-Project/tree/main![image](https://github.com/user-attachments/assets/71fb67a1-c357-45b6-ba11-9884493c8f7a)
+[View code on Github](https://github.com/lulu3202/ML-DS-Capstone-Project/tree/main)
 
 ---
 
