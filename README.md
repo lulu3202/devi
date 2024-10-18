@@ -14,11 +14,12 @@ This project builds a model to detect whether individuals are wearing masks usin
 
 ---
 
-### NASA NEO Dataset: Predicting Hazardous Near-Earth Objects with Machine Learning!
+### NASA NEO Dataset: Predicting Hazardous Near-Earth Objects with Machine Learning
 
 This  project utilizes the NASA NEO dataset to predict whether near-Earth objects are hazardous. With 338,199 observations and 9 features, I applied supervised learning techniques, preprocessing the data to optimize inputs. Random Forest emerged as the best-performing algorithm, achieving an accuracy of 91% in classifying hazardous objects.
 
-<img src="images/nasa_neo.png?raw=true" />
+<img src="images/nasa_neo.png?raw=true" width="400" />
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 
@@ -30,23 +31,23 @@ This  project utilizes the NASA NEO dataset to predict whether near-Earth object
 
 This application provides an interactive Q&A platform for users to ask questions about the Fuji X-S20 camera, leveraging the Gemini API and Langchain for intelligent responses. It processes the camera's manual in PDF format to deliver concise and accurate answers powered by Google Generative AI. Users need to install Python 3.x along with essential libraries like Gradio and Langchain to get started.![image]
 
-<img src="images/pdf_reader/gradio_output.png?raw=true" />
+<img src="images/pdf_r.png?raw=true" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-00B4D8?logo=gradio&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-00A3E0?logo=python&logoColor=white) ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-40A9E0?logo=anaconda&logoColor=white)
 
-[View code on GitHub](https://github.com/lulu3202/PDF_RAG_Reader)  [View Blog on Medium](https://medium.com/@devipriyakaruppiah/building-a-fuji-x-s20-camera-q-a-app-with-gemini-langchain-and-gradio-befc8d620721)
+[View code on GitHub](https://github.com/lulu3202/PDF_RAG_Reader)  |  [View Blog on Medium](https://medium.com/@devipriyakaruppiah/building-a-fuji-x-s20-camera-q-a-app-with-gemini-langchain-and-gradio-befc8d620721)
 
 ---
 
-### Photo critique app
+### Photo Critique App
 
 This project develops a Photo Critique App using Streamlit and Google's Gemini-1.5-Flash-8B model. It involves setting up a virtual environment, securely storing API keys, and configuring the app to interact with the Gemini model for generating critiques based on uploaded images. The Streamlit interface allows users to run and test different versions of the app seamlessly.
 
-<img src="images/critique_app.jpg?raw=true" />
+<img src="images/critique_app.jpg?raw=true" width="400" />
 
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-[View code on GitHub](https://github.com/lulu3202/photo_critique_app1) [Watch my YouTube tutorial](https://www.youtube.com/watch?si=h0Bqhnu2vOidbIZY&v=tUB6nulmk3s&feature=youtu.be)
+[View code on GitHub](https://github.com/lulu3202/photo_critique_app1)  |  [Watch my YouTube tutorial](https://www.youtube.com/watch?si=h0Bqhnu2vOidbIZY&v=tUB6nulmk3s&feature=youtu.be)
 
 ---
 
@@ -54,7 +55,7 @@ This project develops a Photo Critique App using Streamlit and Google's Gemini-1
 
 This project utilizes AWS Lambda and the Stability AI Stable Diffusion model from AWS Bedrock to generate animated movie posters based on user-provided text prompts. The generated images are stored in an S3 bucket, and a pre-signed URL is returned for easy access. The implementation includes setting up an API Gateway for user interaction and testing with Postman for seamless functionality.
 
-<img src="images/unicorn.png?raw=true"/>
+<img src="images/unicorn.png?raw=true" width="400" />
 Generated image for the prompt "Unicorn in the style of Dr.Seuss"
 
 ![Boto3](https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
@@ -63,28 +64,11 @@ Generated image for the prompt "Unicorn in the style of Dr.Seuss"
 
 ---
 
-### Project 6
-sample text description
+## Cloud Certifications 
+My active cloud certifications include:
 
-<img src="images/circle_shot.png?raw=true"/>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing) | [YouTube Channel](https://www.youtube.com/channel/your_channel_id) | [Medium Blog](https://medium.com/@your_username/your-blog-post)
-
----
-
-### Proj 7
-Descr
-
-[![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
-
-View code on Github
-
----
-
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
-
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/bd28630d2b036a1a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/devi-6391/credentials/7aacac48819cc637?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/6e72329de036849d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/fe5d9495-2ca7-4f0e-b376-3379ed63b025/linked_in_profile)
+- [Google Certified Cloud Digital Leader](https://www.credential.net/48420cc4-5689-4376-a7e0-a21429b939df#gs.0me98g)
