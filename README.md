@@ -29,7 +29,7 @@ This  project utilizes the NASA NEO dataset to predict whether near-Earth object
 
 ### Fuji X-S20 Camera Q&A Application
 
-This application provides an interactive Q&A platform for users to ask questions about the Fuji X-S20 camera, leveraging the Gemini API and Langchain for intelligent responses. It processes the camera's manual in PDF format to deliver concise and accurate answers powered by Google Generative AI. Users need to install Python 3.x along with essential libraries like Gradio and Langchain to get started.![image]
+This application provides an interactive Q&A platform for users to ask questions about the Fuji X-S20 camera, leveraging the power of Gemini Flash API and Retrieval Augmented Generation (RAG) to deliver real-time, concise and accurate answers.
 
 <img src="images/pdf_r.png?raw=true" />
 
