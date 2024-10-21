@@ -64,6 +64,17 @@ Generated image for the prompt "Unicorn in the style of Dr.Seuss"
 
 ---
 
+### End To End Data Science Project Deployment with Flask, Docker and AWS EC2
+
+This project is an end-to-end machine learning application that predicts student performance based on various input features. It utilizes Flask for the web interface and Scikit-Learn for model development, along with a complete CI/CD workflow using GitHub Actions, Docker, and AWS ECR. The application encompasses data ingestion, transformation, and a prediction pipeline, resulting in an effective model for forecasting student grades.
+
+<img src="images/e2e.png?raw=true" width="400" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/e2emlproject)
+
+---
 ## Cloud Certifications 
 My active cloud certifications include:
 
