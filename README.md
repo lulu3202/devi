@@ -18,12 +18,49 @@ This project builds a model to detect whether individuals are wearing masks usin
 
 This  project utilizes the NASA NEO dataset to predict whether near-Earth objects are hazardous. With 338,199 observations and 9 features, I applied supervised learning techniques, preprocessing the data to optimize inputs. Random Forest emerged as the best-performing algorithm, achieving an accuracy of 91% in classifying hazardous objects.
 
-<img src="images/nasa_neo.png?raw=true" width="400" />
+<img src="images/nasa_neo.png?raw=true" width="300" />
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 
 [View code on GitHub](https://github.com/lulu3202/ML-DS-Capstone-Project/tree/main)
+
+---
+
+### Airflow ETL Pipeline with Postgres and NASA API Integration
+
+This project creates an ETL pipeline using Apache Airflow to extract data from NASA's Astronomy Picture of the Day (APOD) API. The extracted data is transformed and loaded into a PostgreSQL database for further analysis. Airflow orchestrates the workflow, managing task dependencies and scheduling. Docker is used to run Airflow and Postgres in isolated containers. The pipeline automates the daily extraction, transformation, and loading of astronomy-related data.
+
+<img src="images/nasa.jpg?raw=true" width="300" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Astronomer](https://img.shields.io/badge/Astronomer-00A3E0?logo=astronomer&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/etl)
+
+---
+
+### Photo Critique App
+
+This project develops a Photo Critique App using Streamlit and Google's Gemini-1.5-Flash-8B model. It involves setting up a virtual environment, securely storing API keys, and configuring the app to interact with the Gemini model for generating critiques based on uploaded images. The Streamlit interface allows users to run and test different versions of the app seamlessly.
+
+<img src="images/critique_app.jpg?raw=true" width="300" />
+
+![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/photo_critique_app1)  |  [Watch my YouTube tutorial](https://www.youtube.com/watch?si=h0Bqhnu2vOidbIZY&v=tUB6nulmk3s&feature=youtu.be)
+
+---
+
+### Animated Movie Poster Design App
+
+This project utilizes AWS Lambda and the Stability AI Stable Diffusion model from AWS Bedrock to generate animated movie posters based on user-provided text prompts. The generated images are stored in an S3 bucket, and a pre-signed URL is returned for easy access. The implementation includes setting up an API Gateway for user interaction and testing with Postman for seamless functionality.
+
+<img src="images/unicorn.png?raw=true" width="300" />
+Generated image for the prompt "Unicorn in the style of Dr.Seuss"
+
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/Image_Generation_with_Bedrock/blob/main/README.md)
 
 ---
 
@@ -39,36 +76,11 @@ This application provides an interactive Q&A platform for users to ask questions
 
 ---
 
-### Photo Critique App
-
-This project develops a Photo Critique App using Streamlit and Google's Gemini-1.5-Flash-8B model. It involves setting up a virtual environment, securely storing API keys, and configuring the app to interact with the Gemini model for generating critiques based on uploaded images. The Streamlit interface allows users to run and test different versions of the app seamlessly.
-
-<img src="images/critique_app.jpg?raw=true" width="400" />
-
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-[View code on GitHub](https://github.com/lulu3202/photo_critique_app1)  |  [Watch my YouTube tutorial](https://www.youtube.com/watch?si=h0Bqhnu2vOidbIZY&v=tUB6nulmk3s&feature=youtu.be)
-
----
-
-### Animated Movie Poster Design App
-
-This project utilizes AWS Lambda and the Stability AI Stable Diffusion model from AWS Bedrock to generate animated movie posters based on user-provided text prompts. The generated images are stored in an S3 bucket, and a pre-signed URL is returned for easy access. The implementation includes setting up an API Gateway for user interaction and testing with Postman for seamless functionality.
-
-<img src="images/unicorn.png?raw=true" width="400" />
-Generated image for the prompt "Unicorn in the style of Dr.Seuss"
-
-![Boto3](https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
-
-[View code on GitHub](https://github.com/lulu3202/Image_Generation_with_Bedrock/blob/main/README.md)
-
----
-
 ### End To End Data Science Project Deployment with Flask, Docker and AWS EC2
 
 This project is an end-to-end machine learning application that predicts student performance based on various input features. It utilizes Flask for the web interface and Scikit-Learn for model development, along with a complete CI/CD workflow using GitHub Actions, Docker, and AWS ECR. The application encompasses data ingestion, transformation, and a prediction pipeline, resulting in an effective model for forecasting student grades.
 
-<img src="images/e2e.png?raw=true" width="400" />
+<img src="images/e2e.png?raw=true" width="300" />
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
