@@ -87,6 +87,18 @@ This project is an end-to-end machine learning application that predicts student
 [View code on GitHub](https://github.com/lulu3202/e2emlproject)
 
 ---
+
+### Mobile Price Classification using AWS SageMaker
+
+This project leverages AWS SageMaker to classify mobile price ranges using a dataset with multiple features like battery power, RAM, and more. The data is split for training and testing, and a Random Forest model is trained to predict price categories. Finally, the model is deployed via an endpoint for real-time inference, showcasing end-to-end machine learning, all performed with AWS SageMaker.
+
+<img src="images/sagemaker.png?raw=true" width="300" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?logo=amazon-aws&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-569A31?logo=amazon-aws&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/awssagemaker1)
+
+---
 ## Cloud Certifications 
 My active cloud certifications include:
 
