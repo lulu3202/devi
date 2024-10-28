@@ -99,6 +99,18 @@ This project leverages AWS SageMaker to classify mobile price ranges using a dat
 [View code on GitHub](https://github.com/lulu3202/awssagemaker1)
 
 ---
+
+### Wine Quality Prediction: Using ElasticNet Regression with MLflow, AWS, and S3
+
+This project utilizes the Wine Quality dataset to predict quality by leveraging ElasticNet regression model, with performance evaluated using RMSE, MAE, and R² metrics. Experiment tracking and model artifacts are managed with MLflow on a remote AWS server, with S3 used for secure and scalable storage.
+
+<img src="images/wine.png?raw=true" width="300" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-4B8BBE?logo=mlflow&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazon-aws&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-569A31?logo=amazon-aws&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/mlflow_aws)
+
+---
 ## Cloud Certifications 
 My active cloud certifications include:
 
