@@ -100,6 +100,18 @@ This project leverages AWS SageMaker to classify mobile price ranges using a dat
 
 ---
 
+### Web Scraping with AWS Bedrock Agent
+
+This project showcases how to set up and deploy an AWS Bedrock Agent capable of web scraping URLs provided by users. It utilizes AWS Lambda for backend processing, Anthropic Claude 3.5 Sonnet as the underlying model, and Streamlit for the user interface. The workflow covers agent configuration, schema creation, and real-time testing, resulting in a user-friendly web scraping application.
+
+<img src="images/webscrape.png?raw=true" width="300" />
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/bedrock_web_crawler_agent) |  [Watch my YouTube tutorial](https://www.youtube.com/watch?v=tKEu-K2YTTc) |  [View my Blog](https://community.aws/content/2p9uo3VJaGln3USg4oIB4SdPuTd/learn-web-scraping-with-aws-bedrock-agents) 
+
+---
+
 ### Wine Quality Prediction: Using ElasticNet Regression with MLflow, AWS, and S3
 
 This project utilizes the Wine Quality dataset to predict quality by leveraging ElasticNet regression model, with performance evaluated using RMSE, MAE, and R² metrics. Experiment tracking and model artifacts are managed with MLflow on a remote AWS server, with S3 used for secure and scalable storage.
@@ -110,7 +122,6 @@ This project utilizes the Wine Quality dataset to predict quality by leveraging 
 
 [View code on GitHub](https://github.com/lulu3202/mlflow_aws)
 
----
 ## Cloud Certifications 
 My active cloud certifications include:
 
