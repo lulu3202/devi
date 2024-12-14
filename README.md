@@ -2,15 +2,15 @@
 
 ---
 
-### Face Mask Detection Using Computer Vision and Keras 
+### Web Scraping with AWS Bedrock Agent
 
-This project builds a model to detect whether individuals are wearing masks using Keras and computer vision techniques. A folder-based dataset with masked and unmasked faces is processed by leveraging transfer learning from MobileNetV2 model (a popular CNN used for vision tasks). The model is trained by cropping faces, converting them into numerical formats, and making predictions. The best-performing model is saved as an .h5 file for deployment. 
+This project showcases how to set up and deploy an AWS Bedrock Agent capable of web scraping URLs provided by users. It utilizes AWS Lambda for backend processing, Anthropic Claude 3.5 Sonnet as the underlying model, and Streamlit for the user interface. The workflow covers agent configuration, schema creation, and real-time testing, resulting in a user-friendly web scraping application.
 
-<img src="images/with_facemask.png?raw=true" /> <img src="images/without_facemask.png?raw=true" />
+<img src="images/webscrape.png?raw=true" width="300" />
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-[View code on GitHub](https://github.com/lulu3202/Deep_Learning)
+[View code on GitHub](https://github.com/lulu3202/bedrock_web_crawler_agent) |  [Watch my YouTube tutorial](https://www.youtube.com/watch?v=tKEu-K2YTTc) |  [View my Blog](https://community.aws/content/2p9uo3VJaGln3USg4oIB4SdPuTd/learn-web-scraping-with-aws-bedrock-agents) 
 
 ---
 
@@ -100,15 +100,15 @@ This project leverages AWS SageMaker to classify mobile price ranges using a dat
 
 ---
 
-### Web Scraping with AWS Bedrock Agent
+### Face Mask Detection Using Computer Vision and Keras 
 
-This project showcases how to set up and deploy an AWS Bedrock Agent capable of web scraping URLs provided by users. It utilizes AWS Lambda for backend processing, Anthropic Claude 3.5 Sonnet as the underlying model, and Streamlit for the user interface. The workflow covers agent configuration, schema creation, and real-time testing, resulting in a user-friendly web scraping application.
+This project builds a model to detect whether individuals are wearing masks using Keras and computer vision techniques. A folder-based dataset with masked and unmasked faces is processed by leveraging transfer learning from MobileNetV2 model (a popular CNN used for vision tasks). The model is trained by cropping faces, converting them into numerical formats, and making predictions. The best-performing model is saved as an .h5 file for deployment. 
 
-<img src="images/webscrape.png?raw=true" width="300" />
+<img src="images/with_facemask.png?raw=true" /> <img src="images/without_facemask.png?raw=true" />
 
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 
-[View code on GitHub](https://github.com/lulu3202/bedrock_web_crawler_agent) |  [Watch my YouTube tutorial](https://www.youtube.com/watch?v=tKEu-K2YTTc) |  [View my Blog](https://community.aws/content/2p9uo3VJaGln3USg4oIB4SdPuTd/learn-web-scraping-with-aws-bedrock-agents) 
+[View code on GitHub](https://github.com/lulu3202/Deep_Learning)
 
 ---
 
