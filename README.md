@@ -1,7 +1,6 @@
 ## Curated Portfolio: Data Science, Machine Learning, Computer Vision, and NLP Projects
 
 ---
-
 ### Web Scraping with AWS Bedrock Agent
 
 This project showcases how to set up and deploy an AWS Bedrock Agent capable of web scraping URLs provided by users. It utilizes AWS Lambda for backend processing, Anthropic Claude 3.5 Sonnet as the underlying model, and Streamlit for the user interface. The workflow covers agent configuration, schema creation, and real-time testing, resulting in a user-friendly web scraping application.
@@ -50,17 +49,15 @@ This project develops a Photo Critique App using Streamlit and Google's Gemini-1
 [View code on GitHub](https://github.com/lulu3202/photo_critique_app1)  |  [Watch my YouTube tutorial](https://www.youtube.com/watch?si=h0Bqhnu2vOidbIZY&v=tUB6nulmk3s&feature=youtu.be) |  [View Blog on Medium](https://pub.towardsai.net/a-primer-on-using-googles-gemini-api-to-improve-your-photography-7862dc8dbaec)
 
 ---
+### Cloud Connections Game: A Fun and Interactive Word Grouping Puzzle 
 
-### Animated Movie Poster Design App
+This project demonstrates how I designed and implemented a Cloud Connections Game as part of AWS Game Builder Challenge Hackathon 2024. I was inspired by NYT connections game. It features a backend that manages the game logic, dynamic word selection, and validation. Built with Python, the game supports scalable data integration through S3 for loading word categories dynamically. The workflow includes category creation, word randomization, and player interaction, resulting in fun gaming experience, powered by Streamlit.
 
-This project utilizes AWS Lambda and the Stability AI Stable Diffusion model from AWS Bedrock to generate animated movie posters based on user-provided text prompts. The generated images are stored in an S3 bucket, and a pre-signed URL is returned for easy access. The implementation includes setting up an API Gateway for user interaction and testing with Postman for seamless functionality.
+<img src="images/cloud_connection.png?raw=true" /> 
 
-<img src="images/unicorn.png?raw=true" width="300" />
-Generated image for the prompt "Unicorn in the style of Dr.Seuss"
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Q Developer](https://img.shields.io/badge/Q_Developer-6E7DFF?logo=Q&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-![Boto3](https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
-
-[View code on GitHub](https://github.com/lulu3202/Image_Generation_with_Bedrock/blob/main/README.md)
+[View code on GitHub](https://github.com/lulu3202/aws_connections_game)
 
 ---
 
@@ -100,6 +97,18 @@ This project leverages AWS SageMaker to classify mobile price ranges using a dat
 
 ---
 
+### Animated Movie Poster Design App
+
+This project utilizes AWS Lambda and the Stability AI Stable Diffusion model from AWS Bedrock to generate animated movie posters based on user-provided text prompts. The generated images are stored in an S3 bucket, and a pre-signed URL is returned for easy access. The implementation includes setting up an API Gateway for user interaction and testing with Postman for seamless functionality.
+
+<img src="images/unicorn.png?raw=true" width="300" />
+Generated image for the prompt "Unicorn in the style of Dr.Seuss"
+
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?logo=amazonaws&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/Image_Generation_with_Bedrock/blob/main/README.md)
+
+---
 ### Face Mask Detection Using Computer Vision and Keras 
 
 This project builds a model to detect whether individuals are wearing masks using Keras and computer vision techniques. A folder-based dataset with masked and unmasked faces is processed by leveraging transfer learning from MobileNetV2 model (a popular CNN used for vision tasks). The model is trained by cropping faces, converting them into numerical formats, and making predictions. The best-performing model is saved as an .h5 file for deployment. 
@@ -125,6 +134,7 @@ This project utilizes the Wine Quality dataset to predict quality by leveraging 
 ## Cloud Certifications 
 My active cloud certifications include:
 
+- [AWS Certified Machine Learning Speciality](https://www.credly.com/badges/786c057e-26de-473c-a711-79e309ccc86c/linked_in?t=sop5vy)
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/bd28630d2b036a1a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/devi-6391/credentials/7aacac48819cc637?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/6e72329de036849d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
