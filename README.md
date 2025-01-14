@@ -57,7 +57,7 @@ This project demonstrates how I designed and implemented a Cloud Connections Gam
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Q Developer](https://img.shields.io/badge/Q_Developer-6E7DFF?logo=Q&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-[View code on GitHub](https://github.com/lulu3202/aws_connections_game)
+[View code on GitHub](https://github.com/lulu3202/aws_connections_game) |   [View Blog on DevPost](https://devpost.com/software/cloud-connections?ref_content=user-portfolio&ref_feature=in_progress)
 
 ---
 
