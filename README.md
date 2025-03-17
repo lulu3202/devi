@@ -1,4 +1,20 @@
 ## Curated Portfolio: Data Science, Machine Learning, Computer Vision, and NLP Projects
+---
+### 🚀 Building Agentic AI Apps (for Free!) with LangGraph, Pydantic, Streamlit & Groq  
+
+This project demonstrates how to build an **Agentic AI app** using **LangGraph, Groq, Pydantic, and Streamlit**, implementing three powerful workflows for different use cases. Inspired by Anthropic’s research on **"Building Effective Agents"**, this project showcases how to design and deploy AI workflows efficiently.  
+
+<img src="images/agentic_ai.png?raw=true" width="300" />
+
+### 🛠️ Features & Workflows
+✅ **Learning Path Generator** (*Orchestrator-Synthesizer*) – Creates a **custom learning roadmap** based on your skills and goals.  
+✅ **Peer Code Reviewer** (*Parallelized Workflow*) – Reviews your code snippet for **security, readability, and best practices**.  
+✅ **Blog Generator** (*Evaluator-Optimizer*) – Generates a **high-quality blog** and evaluates it against predefined criteria.  
+
+### 🔧 Tech Stack
+![LangGraph](https://img.shields.io/badge/LangGraph-5E81AC?logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?logo=groq&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-009688?logo=pydantic&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+
+[View code on GitHub](https://github.com/lulu3202/langgraph_workflows) | [Live app hosted on HF Spaces](https://github.com/user-attachments/assets/014a5429-0955-41ce-81b8-e139121a0131)  
 
 ---
 ### Web Scraping with AWS Bedrock Agent
