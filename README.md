@@ -1,4 +1,4 @@
-## Curated Portfolio: Data Science, Machine Learning, Computer Vision, and NLP Projects
+## Curated Portfolio: Machine Learning, Generative AI, RAG & Agentic AI Projects
 ---
 ### 🚀 Building Agentic AI Apps (for Free!) with LangGraph, Pydantic, Streamlit & Groq  
 
