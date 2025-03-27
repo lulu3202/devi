@@ -14,7 +14,7 @@ This project demonstrates how to build an **Agentic AI app** using **LangGraph, 
 ### 🔧 Tech Stack
 ![LangGraph](https://img.shields.io/badge/LangGraph-5E81AC?logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?logo=groq&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-009688?logo=pydantic&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
-[View code on GitHub](https://github.com/lulu3202/langgraph_workflows) | [Live app hosted on HF Spaces](https://github.com/user-attachments/assets/014a5429-0955-41ce-81b8-e139121a0131) | [View my Blog](https://medium.com/towards-artificial-intelligence/building-agentic-ai-apps-using-langgraph-pydantic-streamlit-groq-f3c535cc553d) 
+[View code on GitHub](https://github.com/lulu3202/langgraph_workflows) | [Live app hosted on HF Spaces](https://github.com/user-attachments/assets/014a5429-0955-41ce-81b8-e139121a0131) | [View my Blog](https://medium.com/towards-artificial-intelligence/building-agentic-ai-apps-using-langgraph-pydantic-streamlit-groq-f3c535cc553d) | [Watch my YouTube tutorial](https://youtu.be/m8fIDfA9EQA)
 
 ---
 ### Web Scraping with AWS Bedrock Agent
