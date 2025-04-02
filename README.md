@@ -1,6 +1,19 @@
 ## Curated Portfolio: Machine Learning, Generative AI, RAG & Agentic AI 
 
-### 🚀 Building Agentic AI Apps (for Free!) with LangGraph, Pydantic, Streamlit & Groq  
+### 🚀 Python Code Explainer App using Agno's Agentic Framework
+
+This project demonstrates a multi-agent system built using AGNO (previously called PhiData) library, integrating web search, GitHub code search, and GIF retrieval. The system features a Streamlit web app and a local AGNO playground for testing agent behaviors. 
+
+<img src="images/streamlit.png?raw=true" width="300" />
+
+### 🔧 Tech Stack
+![AGNO](https://img.shields.io/badge/AGNO-5E81AC?logo=ai&logoColor=white) ![DuckDuckGo API](https://img.shields.io/badge/DuckDuckGo-FF6600?logo=duckduckgo&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Giphy API](https://img.shields.io/badge/Giphy-00FF99?logo=giphy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/agno_usecase) | [View my Blog](https://medium.com/@devipriyakaruppiah/agentic-framework-deep-dive-series-part-2-agno-c45da579b7c0) | [Watch my YouTube tutorial](https://www.youtube.com/watch?v=UAlX8debJOA)
+
+---
+
+### 🚀 Agentic AI App Hub using LangGraph, Pydantic, Streamlit & Groq  
 
 This project demonstrates how to build an **Agentic AI app** using **LangGraph, Groq, Pydantic, and Streamlit**, implementing three powerful workflows for different use cases. Inspired by Anthropic’s research on **"Building Effective Agents"**, this project showcases how to design and deploy AI workflows efficiently.  
 
@@ -17,7 +30,7 @@ This project demonstrates how to build an **Agentic AI app** using **LangGraph, 
 [View code on GitHub](https://github.com/lulu3202/langgraph_workflows) | [Live app hosted on HF Spaces](https://github.com/user-attachments/assets/014a5429-0955-41ce-81b8-e139121a0131) | [View my Blog](https://medium.com/towards-artificial-intelligence/building-agentic-ai-apps-using-langgraph-pydantic-streamlit-groq-f3c535cc553d) | [Watch my YouTube tutorial](https://youtu.be/m8fIDfA9EQA)
 
 ---
-### Web Scraping with AWS Bedrock Agent
+### Agentic Web Scraping using AWS Bedrock 
 
 This project showcases how to set up and deploy an AWS Bedrock Agent capable of web scraping URLs provided by users. It utilizes AWS Lambda for backend processing, Anthropic Claude 3.5 Sonnet as the underlying model, and Streamlit for the user interface. The workflow covers agent configuration, schema creation, and real-time testing, resulting in a user-friendly web scraping application.
 
