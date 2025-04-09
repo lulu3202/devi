@@ -163,6 +163,7 @@ This project utilizes the Wine Quality dataset to predict quality by leveraging 
 ## Cloud Certifications 
 My active cloud certifications include:
 
+- [Salesforce Certified Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=e0NLKIB+FypClJDWjJmgRDjA0HTWg2PSxabVb/Hdl3aklLqHT84LxvMQ3dCsc5mr)
 - [AWS Certified Machine Learning Speciality](https://www.credly.com/badges/786c057e-26de-473c-a711-79e309ccc86c/linked_in?t=sop5vy)
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/bd28630d2b036a1a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/devi-6391/credentials/7aacac48819cc637?ref=https%3A%2F%2Fwww.linkedin.com%2F)
