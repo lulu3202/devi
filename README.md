@@ -1,15 +1,16 @@
 ## Curated Portfolio: Machine Learning, Generative AI, RAG & Agentic AI 
 
-### 🚀 Python Code Explainer App using Agno's Agentic Framework
+### 🧠 Second Brain AI Assistant using LLMs and Agentic RAG
 
-This project demonstrates a multi-agent system built using AGNO (previously called PhiData) library, integrating web search, GitHub code search, and GIF retrieval. The system features a Streamlit web app and a local AGNO playground for testing agent behaviors. 
+This project demonstrates the design, build and implementation of an end-to-end Gen AI system called second-brain-style AI assistant, from designing data-feature-training-inference pipelines to LLM fine-tuning to agentic RAG and real-time inference. 
 
-<img src="images/streamlit.png?raw=true" width="300" />
+<img src="images/second.jpeg?raw=true" width="300" />
 
 ### 🔧 Tech Stack
-![AGNO](https://img.shields.io/badge/AGNO-5E81AC?logo=ai&logoColor=white) ![DuckDuckGo API](https://img.shields.io/badge/DuckDuckGo-FF6600?logo=duckduckgo&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Giphy API](https://img.shields.io/badge/Giphy-00FF99?logo=giphy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ZenML](https://img.shields.io/badge/ZenML-F2921D?logo=zenml&logoColor=white) ![Comet](https://img.shields.io/badge/Comet-FF6F00?logo=comet&logoColor=white) ![Opik](https://img.shields.io/badge/Opik-4A90E2?logo=ai&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-[View code on GitHub](https://github.com/lulu3202/agno_usecase) | [View my Blog](https://medium.com/@devipriyakaruppiah/agentic-framework-deep-dive-series-part-2-agno-c45da579b7c0) | [Watch my YouTube tutorial](https://www.youtube.com/watch?v=UAlX8debJOA)
+
+[View code on GitHub](https://github.com/lulu3202/second_brain_ai_assistant_learning_journey) | [View my Blog](https://pub.towardsai.net/what-i-learned-from-the-second-brain-ai-assistant-open-source-genai-course-8d6038ab1457) 
 
 ---
 
@@ -28,6 +29,18 @@ This project demonstrates how to build an **Agentic AI app** using **LangGraph, 
 ![LangGraph](https://img.shields.io/badge/LangGraph-5E81AC?logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?logo=groq&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-009688?logo=pydantic&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
 [View code on GitHub](https://github.com/lulu3202/langgraph_workflows) | [Live app hosted on HF Spaces](https://github.com/user-attachments/assets/014a5429-0955-41ce-81b8-e139121a0131) | [View my Blog](https://medium.com/towards-artificial-intelligence/building-agentic-ai-apps-using-langgraph-pydantic-streamlit-groq-f3c535cc553d) | [Watch my YouTube tutorial](https://youtu.be/m8fIDfA9EQA)
+
+---
+### 🚀 Python Code Explainer App using Agno's Agentic Framework
+
+This project demonstrates a multi-agent system built using AGNO (previously called PhiData) library, integrating web search, GitHub code search, and GIF retrieval. The system features a Streamlit web app and a local AGNO playground for testing agent behaviors. 
+
+<img src="images/streamlit.png?raw=true" width="300" />
+
+### 🔧 Tech Stack
+![AGNO](https://img.shields.io/badge/AGNO-5E81AC?logo=ai&logoColor=white) ![DuckDuckGo API](https://img.shields.io/badge/DuckDuckGo-FF6600?logo=duckduckgo&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Giphy API](https://img.shields.io/badge/Giphy-00FF99?logo=giphy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/agno_usecase) | [View my Blog](https://medium.com/@devipriyakaruppiah/agentic-framework-deep-dive-series-part-2-agno-c45da579b7c0) | [Watch my YouTube tutorial](https://www.youtube.com/watch?v=UAlX8debJOA)
 
 ---
 ### Agentic Web Scraping using AWS Bedrock 
