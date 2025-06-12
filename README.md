@@ -151,18 +151,6 @@ Generated image for the prompt "Unicorn in the style of Dr.Seuss"
 [View code on GitHub](https://github.com/lulu3202/Image_Generation_with_Bedrock/blob/main/README.md)
 
 ---
-### Face Mask Detection Using Computer Vision and Keras 
-
-This project builds a model to detect whether individuals are wearing masks using Keras and computer vision techniques. A folder-based dataset with masked and unmasked faces is processed by leveraging transfer learning from MobileNetV2 model (a popular CNN used for vision tasks). The model is trained by cropping faces, converting them into numerical formats, and making predictions. The best-performing model is saved as an .h5 file for deployment. 
-
-<img src="images/with_facemask.png?raw=true" /> <img src="images/without_facemask.png?raw=true" />
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-
-[View code on GitHub](https://github.com/lulu3202/Deep_Learning)
-
----
-
 ### Wine Quality Prediction: Using ElasticNet Regression with MLflow, AWS, and S3
 
 This project utilizes the Wine Quality dataset to predict quality by leveraging ElasticNet regression model, with performance evaluated using RMSE, MAE, and R² metrics. Experiment tracking and model artifacts are managed with MLflow on a remote AWS server, with S3 used for secure and scalable storage.
