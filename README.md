@@ -164,10 +164,11 @@ This project utilizes the Wine Quality dataset to predict quality by leveraging 
 ## Cloud Certifications 
 My active cloud certifications include:
 
-- [Salesforce Certified Agentforce Specialist](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=e0NLKIB+FypClJDWjJmgRDjA0HTWg2PSxabVb/Hdl3aklLqHT84LxvMQ3dCsc5mr)
+- [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/0215e507-0732-4089-9ea0-9c62423920b5#acc.OAZbYBDo)
 - [AWS Certified Machine Learning Speciality](https://www.credly.com/badges/786c057e-26de-473c-a711-79e309ccc86c/linked_in?t=sop5vy)
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/bd28630d2b036a1a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/devi-6391/credentials/7aacac48819cc637?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/devi-6391/credentials/6e72329de036849d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/fe5d9495-2ca7-4f0e-b376-3379ed63b025/linked_in_profile)
 - [Google Certified Cloud Digital Leader](https://www.credential.net/48420cc4-5689-4376-a7e0-a21429b939df#gs.0me98g)
+- [Salesforce Certified Agentforce Specialist](https://drive.google.com/file/d/10MmojiWetR9W_VmrN3QGrUPfydJW4cSP/view)
