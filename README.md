@@ -1,5 +1,17 @@
 ## Curated Portfolio: Machine Learning, Generative AI, RAG & Agentic AI 
 
+### 📄 Document Portal – LLMOps for Enterprise Document Intelligence
+This project showcases the design and deployment of a production-ready LLMOps system on AWS, enabling enterprises to analyze, compare, and query documents at scale. It features retrieval-augmented generation (RAG), multi-document chat, and compliance-focused document comparison, built with robust monitoring, CI/CD pipelines, and cost-optimized cloud-native architecture.
+
+<img src="images/doc_portal_image.png?raw=true" width="300" />
+
+### 🔧 Tech Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0052CC?logo=databricks&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+[View code on GitHub](https://github.com/lulu3202/doocument_portal-) 
+
+---
+
 ### 🧠 Second Brain AI Assistant using LLMs and Agentic RAG
 
 This project demonstrates the design, build and implementation of an end-to-end Gen AI system called second-brain-style AI assistant, from designing data-feature-training-inference pipelines to LLM fine-tuning to agentic RAG and real-time inference. 
