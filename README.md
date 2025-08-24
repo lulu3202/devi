@@ -3,7 +3,7 @@
 ### 📄 Document Portal – LLMOps for Enterprise Document Intelligence
 This project showcases the design and deployment of a production-ready LLMOps system on AWS, enabling enterprises to analyze, compare, and query documents at scale. It features retrieval-augmented generation (RAG), multi-document chat, and compliance-focused document comparison, built with robust monitoring, CI/CD pipelines, and cost-optimized cloud-native architecture.
 
-<img src="images/doc_portal_image.png?raw=true" width="600" />
+<img src="images/doc2.png?raw=true" width="600" />
 
 
 ### 🔧 Tech Stack
